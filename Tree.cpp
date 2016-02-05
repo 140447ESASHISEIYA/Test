@@ -17,7 +17,7 @@ void Tree::LineRender(D3DXVECTOR3 start, D3DXVECTOR3 dir, int deep)
 	line.Draw(start, start + dir);
 
 	float d = 0.8;
-	float angle = 90;
+	float angle = 30;	//ïœçX
 
 	D3DXMATRIX right, left;
 	D3DXVECTOR3 vec;
