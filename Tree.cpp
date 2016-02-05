@@ -55,5 +55,7 @@ void Tree::LineRender(D3DXVECTOR3 start, D3DXVECTOR3 dir, int deep)
 	}
 
 	//start = start + vec;
+	//Hello
+	//メッセージ
 
 }
